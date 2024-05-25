@@ -1,4 +1,4 @@
-
+ds_module_5_data_visualization
 In this challenge, I processed data from a recent study on drug treatments for Squamous Cell Carcinoma (SCC) in 249 mice to generate technical reports containing tables and figures.
 
 Initially, I consolidated separate DataFrames of mouse metadata and study results into a unified DataFrame. I then performed data cleaning by identifying and eliminating duplicate entries.
